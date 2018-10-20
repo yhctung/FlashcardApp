@@ -4,7 +4,7 @@
 App that displays a question and when tapped, shows the answer. 
 
 ### App Walk-though
-<img src="https://github.com/yhctung/Flashcard/raw/master/RequiredLab1.2.gif" width=200><br>
+<img src="https://github.com/yhctung/FlashcardApp/raw/master/RequiredLab1.2.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
