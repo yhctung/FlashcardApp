@@ -27,6 +27,7 @@ public class AddCardActivity extends AppCompatActivity {
                 Intent intent = new Intent(AddCardActivity.this, MainActivity.class);
                 AddCardActivity.this.startActivity(intent);
             }
+
         });
 
         /* first shot
