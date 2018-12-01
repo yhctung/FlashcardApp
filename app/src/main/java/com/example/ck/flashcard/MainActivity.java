@@ -133,6 +133,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 /*
+        // not 100% done with this
         // delete flashcard from database
         findViewById(R.id.Delete).setOnClickListener(new View.OnClickListener() {
             @Override
