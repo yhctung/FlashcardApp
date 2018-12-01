@@ -6,7 +6,7 @@
 App displays question and when tapped, shows answer. User can make their own cards and go through them. There are transition animations. 
 
 ### App Walk-though
-<img src="https://i.imgur.com/GzMtGm6.gifv" width=200><br>
+<img src="https://github.com/yhctung/FlashcardApp/raw/master/RequiredLab4.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
