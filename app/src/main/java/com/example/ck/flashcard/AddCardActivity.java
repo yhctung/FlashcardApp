@@ -30,25 +30,7 @@ public class AddCardActivity extends AppCompatActivity {
 
         });
 
-        /* first shot
-        findViewById(R.id.Check).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(AddCardActivity.this, MainActivity.class);
-                AddCardActivity.this.startActivityForResult(intent, 100);
-
-                String userQuestion = ((EditText) findViewById(R.id.QuestionField)).getText().toString();
-                String userAnswer = ((EditText) findViewById(R.id.AnswerField)).getText().toString();
-
-                Intent data = new Intent(); // new Intent is where the data is
-                data.putExtra("question", userQuestion);
-                data.putExtra("answer", userAnswer);
-                setResult(RESULT_OK, data);
-                finish();
-
-            }
-        });
-        */
+        // when check clicked, send data to main and go
         findViewById(R.id.Check).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
